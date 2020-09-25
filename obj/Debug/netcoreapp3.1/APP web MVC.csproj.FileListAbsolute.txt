@@ -1,0 +1,37 @@
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.exe
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.deps.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.runtimeconfig.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.runtimeconfig.dev.json
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.dll
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.pdb
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.Views.dll
+C:\Users\USUARIO\Desktop\APP web MVC\bin\Debug\netcoreapp3.1\APP web MVC.Views.pdb
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.csprojAssemblyReference.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.AssemblyInfoInputs.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.AssemblyInfo.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.RazorAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.RazorAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.TagHelpers.input.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.TagHelpers.output.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.RazorCoreGenerate.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Index.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\Home\Privacy.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Error.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_Layout.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\Shared\_ValidationScriptsPartial.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewImports.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\Razor\Views\_ViewStart.cshtml.g.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.RazorTargetAssemblyInfo.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.RazorTargetAssemblyInfo.cs
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.Views.pdb
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\staticwebassets\APP web MVC.StaticWebAssets.Manifest.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\staticwebassets\APP web MVC.StaticWebAssets.xml
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.dll
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.pdb
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.genruntimeconfig.cache
+C:\Users\USUARIO\Desktop\APP web MVC\obj\Debug\netcoreapp3.1\APP web MVC.csproj.CopyComplete

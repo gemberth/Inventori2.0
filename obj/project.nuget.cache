@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "+rQLmE2zNhQ2qucelZlzf3CJkHx/iVnlxLkd/6BshWGrK7bDlmXFr6J6+CrXUMC8RUK4RMKGuTm85HvcUZck4w==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\USUARIO\\Desktop\\APP web MVC\\APP web MVC.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\USUARIO\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
+  ],
+  "logs": []
+}
